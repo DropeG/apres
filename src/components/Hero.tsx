@@ -2,11 +2,14 @@ import { useState, useEffect } from 'react';
 import { ChevronDown } from 'lucide-react';
 
 const images = [
-  '/montaña.jpeg',
-  '/WhatsApp Image 2025-11-14 at 9.33.28 PM.jpeg',
-  '/WhatsApp Image 2025-11-14 at 9.33.27 PM (3).jpeg',
-  '/WhatsApp Image 2025-11-14 at 9.33.27 PM (1).jpeg',
-  '/WhatsApp Image 2025-11-14 at 9.33.26 PM (1).jpeg',
+  'src/images/hero4.jpeg',
+  'src/images/hero1.jpeg',
+  'src/images/hero2.jpeg',
+  'src/images/hero6.jpeg',
+  'src/images/hero3.jpeg',
+  'src/images/hero5.jpeg',
+  'src/images/hero7.jpeg',
+  'src/images/hero8.jpeg',
 ];
 
 function Hero() {

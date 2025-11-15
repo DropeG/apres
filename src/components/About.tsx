@@ -25,7 +25,7 @@ function About() {
         </div>
         <div className="relative h-96 md:h-[600px]">
           <img
-            src="/WhatsApp Image 2025-11-14 at 9.33.26 PM (1).jpeg"
+            src="src/images/hero4.jpeg"
             alt="Après Experience"
             className="w-full h-full object-cover rounded-sm shadow-2xl"
           />
